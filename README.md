@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/790e0d58-ccc3-470e-ba58-485b239cb822" />
+
 # 📊 Advanced Exploratory Data Analysis on E-Commerce Sales Data
 
 <p align="center">
